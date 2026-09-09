@@ -2,7 +2,7 @@ Olá, eu sou o Gabriel 👋
 
 Estudante de Engenharia de Software na Universidade Positivo (Ecoville), em busca da primeira oportunidade como Desenvolvedor Júnior ou Analista de Dados Júnior.
 
-* 🚀 Sobre mim
+Sobre mim
 * 📚 Cursando Engenharia de Software (2º Período)
 * 💻 Aprendendo e aplicando Python, HTML, CSS e fundamentos de Banco de Dados
 * 🤝 Gosto de trabalhar em equipe e desenvolver projetos colaborativos
