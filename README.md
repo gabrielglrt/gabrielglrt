@@ -17,6 +17,9 @@ Estudante de Engenharia de Software na Universidade Positivo (Ecoville), em busc
 GitHub Foundations — Microsoft Learn 
 <img width="1584" height="529" alt="image" src="https://github.com/user-attachments/assets/21ac3b53-c640-4ee7-9d1c-88cb5656766c" />
 
+📂 Projetos em destaque
+- Em construção — novos projetos serão adicionados em breve.
+
 📫 Como me encontrar
 
 Aqui está só o bloco das redes sociais:
